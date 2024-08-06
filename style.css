@@ -117,9 +117,9 @@ button:hover {
 
 .containers {
     max-width: 100vh;
-    height: 60vh;
+    height: 95vh;
     margin: 0 auto;
-    padding: 20px;
+    padding: 15px;
 }
 
 .filters {

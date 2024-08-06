@@ -1,6 +1,7 @@
 function obtenerValores() {
   const num1 = document.getElementById("num1").value;
   const num2 = document.getElementById("num2").value;
+  console.log("los numeros son " + " numero uno " + num1 + " y " + " numero dos " + num2)
 
   // Validar si los valores están vacíos
   for (const valor of [num1, num2]) {
