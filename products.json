@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "camisa deportiva",
+    "price": 50,
+    "image": "./img/camisa-deportiva.jpg"
+  },
+  {
+    "id": 2,
+    "name": "camisa deportiva baki",
+    "price": 60,
+    "image": "./img/camisa-deportiva1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pantalon oversize",
+    "price": 110,
+    "image": "./img/sudadera-oversize.jpg"
+  },
+  {
+    "id": 4,
+    "name": "chaqueta deportiva nike",
+    "price": 150,
+    "image": "./img/chaqueta-deportiva.jpg"
+  },
+  {
+    "id": 5,
+    "name": "camisa deportiva spider-man",
+    "price": 80,
+    "image": "./img/camisa-deportiva2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "pantaloneta deportiva",
+    "price": 60,
+    "image": "./img/pantaloneta-deportiva.jpg"
+  },
+  {
+    "id": 7,
+    "name": "esqueleto train the will",
+    "price": 50,
+    "image": "./img/esqueleto-deportiva.jpg"
+  },
+  {
+    "id": 8,
+    "name": "chaqueta deportiva negra",
+    "price": 250,
+    "image": "./img/chaqueta-deportiva1.jpg"
+  }
+]

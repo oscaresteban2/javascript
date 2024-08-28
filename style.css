@@ -137,37 +137,6 @@ img {
   border: 1px solid #ccc;
 }
 
-#cart-items {
-  margin-bottom: 10px;
-}
-
-.carrito-flotante {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background-color: #4CAF50;
-  color: white;
-  border-radius: 50%;
-  padding: 15px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-  cursor: pointer;
-}
-
-.fas {
-  font-size: 24px;
-}
-
-.cantidad {
-  position: absolute;
-  top: -5px;
-  right: -5px;
-  background-color: red;
-  color: white;
-  border-radius: 50%;
-  padding: 5px;
-  font-size: 12px;
-}
-
 button {
   padding: 10px 15px;
   background-color: #28a745;
